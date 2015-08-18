@@ -1,0 +1,10 @@
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\bin\Debug\SAD-EXER2.exe.config
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\bin\Debug\SAD-EXER2.exe
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\bin\Debug\SAD-EXER2.pdb
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\bin\Debug\SAD-EXER2.xml
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\obj\Debug\SAD_EXER2.Calcu.resources
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\obj\Debug\SAD_EXER2.Resources.resources
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\obj\Debug\SAD-EXER2.vbproj.GenerateResource.Cache
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\obj\Debug\SAD-EXER2.exe
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\obj\Debug\SAD-EXER2.xml
+c:\users\jayson\documents\visual studio 2013\Projects\SAD-EXER2\SAD-EXER2\obj\Debug\SAD-EXER2.pdb
